@@ -1,0 +1,15 @@
+F:\Csharp\BiliBiliVideoDownloader\bin\Debug\netcoreapp3.1\BiliBiliVideoDownloader.exe
+F:\Csharp\BiliBiliVideoDownloader\bin\Debug\netcoreapp3.1\BiliBiliVideoDownloader.deps.json
+F:\Csharp\BiliBiliVideoDownloader\bin\Debug\netcoreapp3.1\BiliBiliVideoDownloader.runtimeconfig.json
+F:\Csharp\BiliBiliVideoDownloader\bin\Debug\netcoreapp3.1\BiliBiliVideoDownloader.runtimeconfig.dev.json
+F:\Csharp\BiliBiliVideoDownloader\bin\Debug\netcoreapp3.1\BiliBiliVideoDownloader.dll
+F:\Csharp\BiliBiliVideoDownloader\bin\Debug\netcoreapp3.1\BiliBiliVideoDownloader.pdb
+F:\Csharp\BiliBiliVideoDownloader\obj\Debug\netcoreapp3.1\BiliBiliVideoDownloader.csproj.AssemblyReference.cache
+F:\Csharp\BiliBiliVideoDownloader\obj\Debug\netcoreapp3.1\BiliBiliVideoDownloader.Form1.resources
+F:\Csharp\BiliBiliVideoDownloader\obj\Debug\netcoreapp3.1\BiliBiliVideoDownloader.csproj.GenerateResource.cache
+F:\Csharp\BiliBiliVideoDownloader\obj\Debug\netcoreapp3.1\BiliBiliVideoDownloader.AssemblyInfoInputs.cache
+F:\Csharp\BiliBiliVideoDownloader\obj\Debug\netcoreapp3.1\BiliBiliVideoDownloader.AssemblyInfo.cs
+F:\Csharp\BiliBiliVideoDownloader\obj\Debug\netcoreapp3.1\BiliBiliVideoDownloader.csproj.CoreCompileInputs.cache
+F:\Csharp\BiliBiliVideoDownloader\obj\Debug\netcoreapp3.1\BiliBiliVideoDownloader.dll
+F:\Csharp\BiliBiliVideoDownloader\obj\Debug\netcoreapp3.1\BiliBiliVideoDownloader.pdb
+F:\Csharp\BiliBiliVideoDownloader\obj\Debug\netcoreapp3.1\BiliBiliVideoDownloader.genruntimeconfig.cache
